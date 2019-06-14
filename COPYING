@@ -1,0 +1,15 @@
+The modifications to the Linux Kernel in this repository are provided under
+the same license as the Linux Kernel, ie:
+  
+    SPDX-License-Identifier: GPL-2.0 WITH Linux-syscall-note
+
+Being under the terms of the GNU General Public License version 2 only,
+according with:
+
+    LICENSES/preferred/GPL-2.0
+
+With an explicit syscall exception, as stated at:
+
+    LICENSES/exceptions/Linux-syscall-note
+
+Please see the Linux kernel tree for further details.
